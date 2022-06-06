@@ -8,7 +8,9 @@ The concept borrows from martial arts where students will perform a pre-defined 
 
 Coding katas have the same goal of perfecting coding techniques and problem solving approaches and ingraining them into your mind so that you no longer have to work hard to make use of them.
 
-They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews.
+I give a lot of coding interviews and it's very common to see candidates use up their time figuring out how to write a tree traversal and run out of time to optimize or find all the bugs. 
+
+This is unnecessary. It's very straightforward to get to the point where you can write out a tree traversal without thinking about it -- all it requires is regular practice. Coding katas give you that practice. They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews. Once you recognize that a problem requires a breadth-first-search or an array traversal, you can then spend as little time as possible on coding it up. The faster you can write the code, the more time you have to check it for bugs or optimize it.
 
 I also use them before interviews to calm me down and get myself into the right mental space.
 
