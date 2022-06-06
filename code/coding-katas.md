@@ -1,14 +1,14 @@
  # Coding Katas
 
-I give a lot of coding interviews and it's very common to see candidates use up their time figuring out how to write a tree traversal and run out of time to optimize or find all the bugs or even to finish. 
+I give a lot of coding interviews and it's very common to see candidates use up their time figuring out how to write a tree search or array traversal and run out of time to optimize or find all the bugs or even to finish. 
 
-This is unfortunate because it's unnecessary. This is the easiest part of the coding interview you can perfect. It's very straightforward to get to the point where you can write out a tree traversal without thinking about it -- all it takes is regular practice. 
+This is unfortunate because it's unnecessary. This is the easiest part of the coding interview to perfect. It's very straightforward to get to the point where you can write out a tree traversal without thinking about it -- all it takes is regular practice. 
 
 **Coding katas** provide this regular practice.
 
 The concept borrows from martial arts where students will perform a pre-defined series of movements called *katas* in order to perfect techniques and build muscle memory. Coding katas have the same goal of perfecting coding and problem solving techniques and building muscle memory for them.
 
-They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews. Once you recognize that a problem requires a breadth-first-search or an array traversal, you can then spend as little time as possible on coding it up. The faster you can write the code, the more time you have to check it for bugs or optimize it.
+They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews. Once you recognize that a problem requires a breadth-first-search or an array traversal, you can spend minimal time and effort on coding it up. The faster you can write the code, the more time you have to check it for bugs or optimize it.
 
 I also use them before interviews to calm me down and get myself into the right mental space.
 
