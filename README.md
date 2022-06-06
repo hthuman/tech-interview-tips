@@ -1,2 +1,1 @@
-# interview_tips
-How to Prepare for Tech Interviews
+# How to Prepare for Tech Interviews
