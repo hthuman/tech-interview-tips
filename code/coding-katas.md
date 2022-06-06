@@ -24,15 +24,18 @@ Even 5 minutes of practice on one of these is beneficial. You don't need to grin
 
 ## List of katas
 
+### Arrays/strings
+
 ### Linked Lists
 * **Compare two linked lists** ([hackerrank](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem))
 
 ### Trees
-* **In-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem))
-  * Time complexity: O(n) where `n` is the number of nodes. This is because you are visiting every node in the tree during a traversal.
-  * Useful for: Visiting binary search tree nodes in order
-* **Pre-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem))
-* **Post-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem))
+* **Traversals**
+    * Time complexity: O(n) where `n` is the number of nodes. This is because you are visiting every node in the tree during a traversal.
+  * **In-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem))
+    * Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)
+  * **Pre-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem))
+  * **Post-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem))
 
 ### Graphs
 
