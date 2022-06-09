@@ -8,4 +8,4 @@ Tech interviews are their own skill that requires more than just memorizing leet
 * **Practice being nervous**: Interviews are very stressful. Practice performing under pressure. Have your friends interview you. 
 * **[Collaborative attitude](https://github.com/hthuman/tech-interview-tips/blob/main/general/collaboration.md)**: Your interviewer wants you to succeed. Listen to their hints and help them help you by communicating your thoughts.
 * **[Coding katas](https://github.com/hthuman/tech-interview-tips/blob/main/code/coding-katas.md)**: Polish your mechanical coding skills so you can focus on problem solving.
-* **Validating code**: Your code will have bugs. Impress your interviewer by showing you are able to find and fix them.
+* **[Test your code](https://github.com/hthuman/tech-interview-tips/blob/main/code/testing.md)**: Your code will have bugs. Impress your interviewer by showing you are able to find and fix them.
