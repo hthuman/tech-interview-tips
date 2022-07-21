@@ -1,3 +1,8 @@
+---
+layout: page
+title: Testing
+--- 
+
 # Testing
 
 It's not enough to find the right algorithm, your code should also be correct. 
