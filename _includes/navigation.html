@@ -4,6 +4,6 @@
     <li><a href={{"/katas" | relative_url }} {% if page.url == "/katas" %}class="active"{% endif %}>Code Katas</a></li>
     <li><a href={{site.baseurl}}"/testing" {% if page.url == "/about" %}class="active"{% endif %}>Testing</a></li>
     <li><a href={{"/practice" | absolute_url }} {% if page.url == "/projects" %}class="active"{% endif %}>Practice</a></li>
-    <li><a href="/about" {% if page.url == "/about" %}class="active"{% endif %}>About Me</a></li>
+    <li><a href="{{site.baseurl}}/about" {% if page.url == "/about" %}class="active"{% endif %}>About Me</a></li>
   </ul>
 </nav>
