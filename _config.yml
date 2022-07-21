@@ -9,7 +9,6 @@ permalink: pretty
 
 paginate:            1000
 paginate_path:       "/page:num/"
-baseurl:             ""
   
 compress_html:
   clippings: all
