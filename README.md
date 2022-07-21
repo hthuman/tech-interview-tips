@@ -1,7 +1,5 @@
 # How to Prepare for Tech Interviews
 
-## Overview
-
 Tech interviews are their own skill that requires more than just memorizing leetcode solutions.
 
 * **Embrace failure**: Everyone fails interviews. By design, the interview process produces false negatives so if you don't pass, it doesn't mean anything about you or your skills. 
