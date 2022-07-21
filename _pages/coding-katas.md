@@ -1,4 +1,9 @@
- # Coding Katas
+---
+layout: page
+title: Coding Katas
+--- 
+ 
+# Coding Katas
 
 I give a lot of coding interviews and it's very common to see candidates use up their time figuring out how to write a tree search or array traversal and run out of time to optimize or find all the bugs or even to finish. 
 
