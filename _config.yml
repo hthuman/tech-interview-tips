@@ -1,7 +1,7 @@
 remote_theme: ronv/ultra
 
 site: Tech Interview Tips
-baseurl: "/tech-interview-tips"
+baseurl: /tech-interview-tips
 title: Tech Interview Tips
 description: How to pass your next tech interview
 
