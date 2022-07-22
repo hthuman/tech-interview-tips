@@ -1,3 +1,8 @@
+---
+layout: page
+title: Testing
+--- 
+
 # Collaborative Attitude
 
 Treat the interview as a collaborative problem solving exercise.
