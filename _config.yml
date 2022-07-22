@@ -1,6 +1,5 @@
 remote_theme: ronv/ultra
 
-baseurl: "/tech-interview-tips"
 title: Tech Interview Tips
 description: How to pass your next tech interview
 
@@ -8,6 +7,7 @@ permalink: pretty
 
 paginate:            1000
 paginate_path:       "/page:num/"
+baseurl:             "/tech-interview-tips"
   
 compress_html:
   clippings: all
