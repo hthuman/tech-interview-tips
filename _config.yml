@@ -22,7 +22,6 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
-  - jekyll-relative-links
 
 collections:
   pages:
