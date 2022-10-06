@@ -69,7 +69,7 @@ footer {
 /* Two columns, sidebar and content*/
 .row {
 	display: grid;
-	grid-template-columns: 10em minmax(35em, 1fr);
+	grid-template-columns: 12em minmax(35em, 1fr);
 	column-gap: 2em;
 }
 
