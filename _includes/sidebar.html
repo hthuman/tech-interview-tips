@@ -1,14 +1,14 @@
 <div class="sidebar">
 <h3>General</h3>
 <ul>
-  <li><a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Main</a></li>
-  <li><a href={{"/about" | relative_url }} {% if page.url == "/about" %}class="active"{% endif %}>About Me</a></li>
+  <li {% if page.url == "/" %}class="active"{% endif %}><a href="{{ site.baseurl }}/">Main</a></li>
+  <li {% if page.url == "/about" %}class="active"{% endif %}><a href={{"/about" | relative_url }}>About Me</a></li>
 </ul>
 <h3>Coding</h3>
 <ul>
-  <li><a href={{"/coding-katas" | relative_url }} {% if page.url == "/coding-katas" %}class="active"{% endif %}>Code Katas</a></li>
-  <li><a href={{"/testing" | relative_url }} {% if page.url == "/testing" %}class="active"{% endif %}>Testing</a></li>
-  <li><a href={{"/collaboration" | relative_url }} {% if page.url == "/collaboration" %}class="active"{% endif %}>Communication</a></li>
+  <li {% if page.url == "/coding-katas" %}class="active"{% endif %}><a href={{"/coding-katas" | relative_url }}>Code Katas</a></li>
+  <li {% if page.url == "/testing" %}class="active"{% endif %}><a href={{"/testing" | relative_url }}>Testing</a></li>
+  <li {% if page.url == "/collaboration" %}class="active"{% endif %}><a href={{"/collaboration" | relative_url }}>Communication</a></li>
 </ul>
 </div>
 
