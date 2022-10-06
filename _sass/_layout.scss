@@ -72,3 +72,13 @@ footer {
 	grid-template-columns: 10em minmax(35em, 1fr);
 	column-gap: 2em;
 }
+
+/* Sidebar */
+.sidebar {
+   list-style-type: none;
+}
+
+.active {
+    background: black;
+    color: white;
+}
