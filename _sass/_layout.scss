@@ -74,7 +74,11 @@ footer {
 }
 
 /* Sidebar */
-.sidebar {
+.sidebar h3 {
+    background: black;
+    color: white;
+}
+.sidebar ul {
    list-style-type: none;
 }
 
