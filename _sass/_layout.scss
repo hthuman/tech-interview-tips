@@ -65,5 +65,5 @@ footer {
 .row {
 	display: grid;
 	grid-template-columns: auto minmax(35em, 1fr) auto;
-	grid-gap: 2em;
+	column-gap: 2em;
 }
