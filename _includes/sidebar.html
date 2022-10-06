@@ -1,45 +1,8 @@
-{% assign sidebar = site.data.entries %}
-
-<ul id="mysidebar" class="nav">
-{% for entry in sidebar %}
-  <li class="sidebarTitle">{{entry.product}} {{entry.version}}</li>
-  {% for folder in entry.folders %}
-    {% if page.url == folder.url %}
-      <li class="active"><a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
-    {% else %}
-      <li><a title="{{folder.title}}" href="{{folder.url | remove: "/"}}">{{folder.title}}</a>
-    {% endif %}
-    <ul>
-      {% for folderitem in folder.folderitems %}
-        {% if folderitem.external_url %}
-          <li><a title="{{folderitem.title}}" href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
-        {% elsif page.url == folderitem.url %}
-          <li class="active"><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-        {% elsif folderitem.type == "empty" %}
-          <li><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-        {% else %}
-          <li><a title="{{folderitem.title}}" href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-        {% endif %}
-        {% for subfolders in folderitem.subfolders %}
-          <li class="subfolders">
-            <a title="{{subfolders.title}}" href="#">{{ subfolders.title }}</a>
-            <ul>
-            {% for subfolderitem in subfolders.subfolderitems %}
-              {% if subfolderitem.external_url %}
-                <li><a title="{{subfolderitem.title}}" href="{{subfolderitem.external_url}}" target="_blank" rel="noopener">{{subfolderitem.title}}</a></li>
-              {% elsif page.url == subfolderitem.url %}
-                <li class="active"><a title="{{subfolderitem.title}}" href="{{subfolderitem.url | remove: "/"}}">{{subfolderitem.title}}</a></li>
-              {% else %}
-                <li><a title="{{subfolderitem.title}}" href="{{subfolderitem.url | remove: "/"}}">{{subfolderitem.title}}</a></li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-          </li>
-          {% endfor %}
-      {% endfor %}
-    </ul>
-    </li>
-  {% endfor %}
-{% endfor %}
+<ul class="sidebar">
+  <li><a href="{{ site.baseurl }}/" {% if page.url == "{{ site.baseurl }}/" %}class="active"{% endif %}>Main</a></li>
+  <li><a href={{"/coding-katas" | relative_url }} {% if page.url == {{"/coding-katas" | absolute_url }} %}class="active"{% endif %}>Code Katas</a></li>
+  <li><a href={{"/testing" | relative_url }} {% if page.url == {{"/testing" | relative_url }} %}class="active"{% endif %}>Testing</a></li>
+  <li><a href={{"/practice" | relative_url }} {% if page.url == {{"/practice" | relative_url }} %}class="active"{% endif %}>Practice</a></li>
+  <li><a href={{"/about" | relative_url }} {% if page.url == {{"/about" | relative_url }} %}class="active"{% endif %}>About Me</a></li>
 </ul>
 
