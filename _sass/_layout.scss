@@ -62,15 +62,8 @@ footer {
 }
 
 /* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
+.row {
+	display: grid;
+	grid-template-columns: auto minmax(35em, 1fr) auto;
+	grid-gap: 2em;
 }
