@@ -1,8 +1,12 @@
-<ul class="sidebar">
+<div class="sidebar">General</div>
+<ul>
   <li><a href="{{ site.baseurl }}/" {% if page.url == "{{ site.baseurl }}/" %}class="active"{% endif %}>Main</a></li>
+  <li><a href={{"/about" | relative_url }} {% if page.url == {{"/about" | relative_url }} %}class="active"{% endif %}>About Me</a></li>
+</ul>
+<div class="sidebar">Coding</div>
+<ul>
   <li><a href={{"/coding-katas" | relative_url }} {% if page.url == {{"/coding-katas" | absolute_url }} %}class="active"{% endif %}>Code Katas</a></li>
   <li><a href={{"/testing" | relative_url }} {% if page.url == {{"/testing" | relative_url }} %}class="active"{% endif %}>Testing</a></li>
-  <li><a href={{"/practice" | relative_url }} {% if page.url == {{"/practice" | relative_url }} %}class="active"{% endif %}>Practice</a></li>
-  <li><a href={{"/about" | relative_url }} {% if page.url == {{"/about" | relative_url }} %}class="active"{% endif %}>About Me</a></li>
+  <li><a href={{"/collaboration" | relative_url }} {% if page.url == {{"/collaboration" | relative_url }} %}class="active"{% endif %}>Communication</a></li>
 </ul>
 
