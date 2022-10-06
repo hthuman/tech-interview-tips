@@ -80,9 +80,11 @@ footer {
 }
 .sidebar ul {
    list-style-type: none;
+   padding-left: 0;
 }
 
 .active {
     background: black;
     color: white;
+    padding: 0;
 }
