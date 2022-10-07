@@ -36,7 +36,7 @@ This is where I spend the majority of my time when I prepare for coding intervie
  </tr>
  <tr>
   <td>Dynamic Programming</td>
-  <td>Ways to climb a staircase** ([hackerrank](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem))</td>
+  <td>Ways to climb a staircase (<a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">hackerrank</a></td>
 </table>
 
 ## How to use coding katas
