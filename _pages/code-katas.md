@@ -39,7 +39,7 @@ I also use them before interviews to calm myself down and get into the right men
    In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">hackerrank</a>)<br>
    <li>Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)<br>
    Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">hackerrank</a>)<br>
-   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">hackerrank</a>)<br>
+   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">hackerrank</a>)
   </td>
  </tr>
  <tr>
