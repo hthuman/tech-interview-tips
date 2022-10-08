@@ -61,8 +61,13 @@ footer {
     margin: 2rem 0;
 }
 
-.maintitle a {
+.maintitle {
     background: black;
+    color: white;
+}
+
+.maintitle a {
+    text-decoration: none;
     color: white;
 }
 
