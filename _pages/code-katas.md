@@ -38,6 +38,7 @@ I also use them before interviews to calm myself down and get into the right men
   <td>
    In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">hackerrank</a>)<br>
    Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">hackerrank</a>)<br>
+   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">hackerrank</a>)<br>
   </td>
  </tr>
  <tr>
