@@ -28,8 +28,10 @@ I also use them before interviews to calm myself down and get into the right men
  </tr>
  <tr>
   <td>Linked Lists</td>
-  <td>Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">hackerrank</a>)</td>
-  <td>Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">hackerrank</a>)</td>
+  <td>
+   Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">hackerrank</a>)<br>
+   Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">hackerrank</a>)
+  </td>
  </tr>
  <tr>
   <td>Trees</td>
@@ -43,8 +45,9 @@ I also use them before interviews to calm myself down and get into the right men
  <tr>
   <td>Graphs</td>
   <td>
-   Depth-first search: Connected cells in a grid (<a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">hackerrank</a>)
-   <br>Breadth-first search: Shortest reach (<a href="https://www.hackerrank.com/challenges/bfsshortreach/problem">hackerrank</a>)</td>
+   Depth-first search: Connected cells in a grid (<a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">hackerrank</a>)<br>
+   Breadth-first search: Shortest reach (<a href="https://www.hackerrank.com/challenges/bfsshortreach/problem">hackerrank</a>)
+  </td>
  </tr>
  <tr>
   <td>Dynamic Programming</td>
