@@ -26,6 +26,7 @@ I use this at work and I've found it translates very well to coding interviews.
       Start with base cases (n=0, n=1, n=2, etc). It's often easier to solve a problem for a base case.<br>
       Define the expected inputs and outputs<br>
       Use examples the interviewer gave you. Do you understand all parts of it?
+    </td>
   </tr>
   <tr>
     <td>Find the solution and validate against test cases</td>
