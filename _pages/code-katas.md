@@ -29,19 +29,22 @@ I also use them before interviews to calm myself down and get into the right men
  <tr>
   <td>Linked Lists</td>
   <td>Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">hackerrank</a>)</td>
+  <td>Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">hackerrank</a>)</td>
  </tr>
  <tr>
   <td>Trees</td>
   <td>
-   
-   * **Traversals**
-    * Time complexity: O(n) where `n` is the number of nodes. This is because you are visiting every node in the tree during a traversal.
-  * **In-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem))
-    * Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)
-  * **Pre-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem))
-  * **Post-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem))
-   
+   In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">hackerrank</a>)<br>
+   <li>Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)<br>
+   Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">hackerrank</a>)<br>
+   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">hackerrank</a>)<br>
   </td>
+ </tr>
+ <tr>
+  <td>Graphs</td>
+  <td>
+   Depth-first search: Connected cells in a grid (<a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">hackerrank</a>)
+   <br>Breadth-first search: Shortest reach (<a href="https://www.hackerrank.com/challenges/bfsshortreach/problem">hackerrank</a>)</td>
  </tr>
  <tr>
   <td>Dynamic Programming</td>
@@ -60,7 +63,9 @@ For every kata, do the following:
 
 ## What are code katas?
 
-The concept borrows from martial arts where students will perform a pre-defined series of movements called *katas* in order to perfect techniques and build muscle memory. Code katas have the same goal of perfecting coding and problem solving techniques and building muscle memory for them.
+The concept borrows from martial arts where students will perform a pre-defined series of movements called *katas* in order to perfect techniques and build muscle memory. 
+
+Code katas have the same goal of perfecting coding and problem solving techniques and building muscle memory for them.
 
 They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews.
 
