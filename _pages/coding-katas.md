@@ -16,26 +16,41 @@ This is where I spend the majority of my time when I prepare for coding intervie
  </tr>
  <tr>
   <td>Arrays/Strings</td>
-  <td>Running sum of array ([leetcode](https://leetcode.com/problems/running-sum-of-1d-array/))</td>
+  <td>
+   
+   Running sum of array ([leetcode](https://leetcode.com/problems/running-sum-of-1d-array/))
+  
+  </td>
  </tr>
  <tr>
   <td>Linked Lists</td>
-  <td>Compare two linked lists ([hackerrank](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem))</td>
+  <td>
+   
+   Compare two linked lists ([hackerrank](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem))
+  
+  </td>
  </tr>
  <tr>
   <td>Trees</td>
   <td>
+   
    * **Traversals**
     * Time complexity: O(n) where `n` is the number of nodes. This is because you are visiting every node in the tree during a traversal.
   * **In-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem))
     * Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)
   * **Pre-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem))
   * **Post-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem))
+   
   </td>
  </tr>
  <tr>
   <td>Dynamic Programming</td>
-  <td>Ways to climb a staircase (<a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">hackerrank</a>)</td>
+  <td>
+   
+   Ways to climb a staircase (<a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">hackerrank</a>)
+  
+  </td>
+ </tr>
 </table>
 
 ## How to use coding katas
