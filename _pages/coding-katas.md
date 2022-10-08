@@ -26,12 +26,7 @@ This is where I spend the majority of my time when I prepare for coding intervie
   <td>Trees</td>
   <td>
    
-* **Traversals**
-    * Time complexity: O(n) where `n` is the number of nodes. This is because you are visiting every node in the tree during a traversal.
-  * **In-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem))
-    * Useful for: Visiting binary search tree nodes in sorted order (this is where the name comes from)
-  * **Pre-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem))
-  * **Post-order traversal** ([hackerrank](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem))
+
   </td>
  </tr>
  <tr>
