@@ -26,6 +26,7 @@
 </ul>
 <h3>Examples</h3>
 <ul>
+  <li {% if page.url == "/rubric" %}class="active"{% endif %}><a href={{"/rubric" | relative_url }}>Rubric One-Pager</a></li>
   <li {% if page.url == "/example-good-1" %}class="active"{% endif %}><a href={{"/example-good-1" | relative_url }}>Good Interview #1</a></li>
   <li {% if page.url == "/example-good-2" %}class="active"{% endif %}><a href={{"/example-good-1" | relative_url }}>Good Interview #2</a></li>
   <li {% if page.url == "/example-bad-1" %}class="active"{% endif %}><a href={{"/example-bad-1" | relative_url }}>Bad Interview #1</a></li>
