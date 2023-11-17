@@ -8,9 +8,10 @@ This guide offers a more effective and methodical way to improve your tech inter
 
 -----
 
-## Key Advice
+## Main Advice
 
 * [Code katas](code-katas) are the best tool for interview prep.
-* [Communication](collaboration) is key. Your interviewer wants you to succeed, help them help you.
-* [Test everything](testing). Your code *will* have bugs. Finding them will impress your interviewer.
+* [Communicate](collaboration). Your interviewer wants you to succeed, help them help you.
+* [Test everything](testing). Your code *will* have bugs. Show you can find them.
+* [Practice being nervous](practice). Learn to code while nervous by practicing.
 
