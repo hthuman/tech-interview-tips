@@ -6,9 +6,24 @@ title: Collaborative Attitude
 
 Treat the interview as a collaborative problem solving exercise and work with your interviewer as a partner.
 
-Your interviewer wants you to succeed and will have several hints prepared in case you get stuck.
 
-## There is no shame taking hints
+## Think out loud
+
+Yes, this is unnatural, but it's another skill that you need to practice.
+
+Your interviewer wants you to succeed and will have several hints prepared in case you get stuck. Make sure they know what you are thinking at all times so they can give you a hint as early as possible. Treat it like a brainstorming or problem solving exercise with a coworker.
+
+It's not a quiz where all that matters is getting the right answer at the end. The way you analyze a problem is equally as important.
+
+## Pay attention to everything your interviewer says
+
+The one difference between problem solving with a coworker and problem solving during an interview is that your interviewer knows the right answer. This means everything they say will be relevant.
+
+If they ask questions, they are most likely pointing out a flaw or trying to lead you in the right direction.
+
+If they make a suggestion, listen. I've flat out said "try using a hashmap" to a candidate who told me it wasn't going to work.
+
+## Hints are normal
 
 I've given my interview questions to candidates of all levels and I almost always give at least one hint to help them find the answer.
 
@@ -27,22 +42,4 @@ Feedback and collaboration are crucial parts of software development. If a candi
   
 </fieldset>
 
-## Think out loud
 
-One common mistake candidates make is to sit in silence until they get the answer.
-
-Don't think of the interview as a quiz. Think of it as solving a technical problem with a partner.
-
-Explaining your thought process allows the interviewer to stop you from going down the wrong path and to give you effective hints. 
-
-I've tried to give hints to silent candidates only to hear them impatiently tell me that they already know. I have multiple hints prepared depending on where the candidate gets stuck, but if I don't know what they are thinking, I don't know which will be most useful.
-
-Additionally, thinking out loud can offer an opportunity to impress the interviewer with your ability to analyze a problem and break it down.
-
-## Pay attention to everything your interviewer says.
-
-The one difference between problem solving with a coworker and problem solving during an interview is that your interviewer knows the right answer. This means everything they say will be relevant.
-
-If they ask questions, they are most likely pointing out a flaw or trying to lead you in the right direction.
-
-If they make a suggestion, listen. I've flat out said "try using a hashmap" to a candidate who told me it wasn't going to work and then refused to explain why they didn't think it would.
