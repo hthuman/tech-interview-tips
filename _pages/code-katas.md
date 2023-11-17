@@ -6,17 +6,11 @@ title: Code Katas
 
 If you take one piece of advice from this site, this is it.
 
-Code katas are how I spend the majority of my time when I prepare for coding interviews. They are the equivalent of easy hackerrank/leetcode problems.
-
-By far the most common mistake I see candidates make is spending too much time figuring out how to write a tree search or array traversal and run out of time to optimize or find bugs or even to finish. 
-
-This is unfortunate because it's unnecessary. This is the easiest part of the coding interview to perfect.
+Code katas are how I spend the majority of my time when I prepare for coding interviews. They are the equivalent of easy hackerrank/leetcode problems. 
 
 All it takes is regular practice. You don't need to grind for hours, you just need to do a little bit regularly until you are able to just sit down and confidently code the solution without backtracking or hesitation. Even 5 minutes of practice a day on one of these is beneficial. 
 
 I also use them before interviews to calm myself down and get into the right mental space.
-
-## List of katas
 
 <table>
  <tr>
@@ -54,13 +48,14 @@ I also use them before interviews to calm myself down and get into the right men
  </tr>
 </table>
 
+
 ## How to use code katas
 
 For every kata, do the following:
-* **Practice until you can confidently and correctly code the solution in <10 minutes.** An example progression would look like:
+* **Practice until you can confidently and correctly code the solution in a minute.** An example progression would look like:
     1. Unable to write the code after 10 minutes of trying (Don't waste time deriving the optimal solution yourself, just look it up. Instead, spend your time understanding why it's better than other approaches.)
-    2. Able to write the code, but it takes >10 minutes and/or multiple submission + bug fix rounds
-    3. Can write code in <10 minutes and perfectly on the first try
+    2. Able to write the code, but it takes several minutes and/or multiple submission + bug fix rounds
+    3. Can write code in 1 minute and perfectly on the first try
 * **Think about the time/space complexity as you code.** Think about this with every line you write. When allocating supplemental data structures, think about how this impacts space complexity. When you add a for loop, think about what this means for time complexity.
 
 ## What are code katas?
@@ -72,6 +67,13 @@ Code katas have the same goal of perfecting coding and problem solving technique
 They help you build up a coding toolkit that you can use fluently even during high pressure situations like interviews.
 
 Once you recognize that a problem requires a breadth-first-search or an array traversal, you can spend minimal time and effort on coding it up. The faster you can write the code, the more time you have to [test it for bugs](https://github.com/hthuman/tech-interview-tips/blob/main/code/testing.md) or optimize it.
+
+Code katas address the most common mistake I see candidates make -- spending all their time figuring out how to write a tree search or array traversal and not having enough time to optimize or find bugs or even to finish. 
+
+This is unfortunate because it's unnecessary. This is the easiest part of the coding interview to perfect.
+
+The hard part of a coding interview should be determining which data structure and algorithm to use. Implementing your solution should be the easy part.
+
 
 
 
