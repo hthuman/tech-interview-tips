@@ -8,10 +8,6 @@ If you take one piece of advice from this site, this is it.
 
 Code katas are how I spend the majority of my time when I prepare for coding interviews. They are the equivalent of easy hackerrank/leetcode problems. 
 
-All it takes is regular practice. You don't need to grind for hours, you just need to do a little bit regularly until you are able to just sit down and confidently code the solution without backtracking or hesitation. Even 5 minutes of practice a day on one of these is beneficial. 
-
-I also use them before interviews to calm myself down and get into the right mental space.
-
 <table>
  <tr>
   <th>Category</th><th>Katas</th>
@@ -57,6 +53,10 @@ For every kata, do the following:
     2. Able to write the code, but it takes several minutes and/or multiple submission + bug fix rounds
     3. Can write code in 1 minute and perfectly on the first try
 * **Think about the time/space complexity as you code.** Think about this with every line you write. When allocating supplemental data structures, think about how this impacts space complexity. When you add a for loop, think about what this means for time complexity.
+
+All it takes is regular practice. You don't need to grind for hours, you just need to do a little bit regularly until you are able to just sit down and confidently code the solution without backtracking or hesitation. Even 5 minutes of practice a day on one of these is beneficial. 
+
+I also use them before interviews to calm myself down and get into the right mental space.
 
 ## What are code katas?
 
