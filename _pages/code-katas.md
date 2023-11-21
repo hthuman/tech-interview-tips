@@ -14,33 +14,34 @@ Code katas are how I spend the majority of my time when I prepare for coding int
  </tr>
  <tr>
   <td>Arrays/Strings</td>
-  <td>Remove adjacent duplicates(<a href="https://www.hackerrank.com/challenges/reduced-string/problem">hackerrank</a>)</td>
+  <td>Quicksort (<a href="https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true">hackerrank</a>)</td>
+  <td>Remove adjacent duplicates (<a href="https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true">hackerrank</a>)</td>
  </tr>
  <tr>
   <td>Linked Lists</td>
   <td>
-   Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">hackerrank</a>)<br>
-   Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">hackerrank</a>)
+   Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true">hackerrank</a>)<br>
+   Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true">hackerrank</a>)
   </td>
  </tr>
  <tr>
   <td>Trees</td>
   <td>
-   In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem">hackerrank</a>)<br>
-   Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">hackerrank</a>)<br>
-   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">hackerrank</a>)<br>
+   In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
+   Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
+   Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
   </td>
  </tr>
  <tr>
   <td>Graphs</td>
   <td>
-   Depth-first search: Connected cells in a grid (<a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem">hackerrank</a>)<br>
-   Breadth-first search: Shortest reach (<a href="https://www.hackerrank.com/challenges/bfsshortreach/problem">hackerrank</a>)
+   Depth-first search: Connected cells in a grid (<a href="https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?isFullScreen=true">hackerrank</a>)<br>
+   Breadth-first search: Shortest reach (<a href="https://www.hackerrank.com/challenges/bfsshortreach/problem?isFullScreen=true">hackerrank</a>)
   </td>
  </tr>
  <tr>
   <td>Dynamic Programming</td>
-  <td>Ways to climb a staircase (<a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">hackerrank</a>)</td>
+  <td>Ways to climb a staircase (<a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?isFullScreen=true">hackerrank</a>)</td>
  </tr>
 </table>
 
