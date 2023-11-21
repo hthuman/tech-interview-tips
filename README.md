@@ -6,7 +6,10 @@ This guide offers a more effective and methodical way to improve your tech inter
 
 -----
 
-**About me**: I am a senior engineer with 15+ years of experience and I give about 1 interview a week. This guide is written to help you avoid the most common mistakes that I see candidates make during interviews. I've received job offers from multiple FAANG companies and this is the process I use to prepare.
+<fieldset>
+  <legend>About Me</legend>
+I am a senior engineer with 15+ years of experience and I give about 1 interview a week. This guide is written to help you avoid the most common mistakes that I see candidates make during interviews. I've received job offers from multiple FAANG companies and this is the process I use to prepare.
+</fieldset>
 
 -----
 
