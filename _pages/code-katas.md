@@ -14,7 +14,7 @@ Code katas are how I spend the majority of my time when I prepare for coding int
  </tr>
  <tr>
   <td>Arrays/Strings</td>
-  <td>Running sum of array (<a href="https://leetcode.com/problems/running-sum-of-1d-array/">leetcode</a>)</td>
+  <td>Remove adjacent duplicates(<a href="https://www.hackerrank.com/challenges/reduced-string/problem">hackerrank</a>)</td>
  </tr>
  <tr>
   <td>Linked Lists</td>
