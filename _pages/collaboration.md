@@ -23,6 +23,14 @@ If they ask questions, they are most likely pointing out a flaw or trying to lea
 
 If they make a suggestion, listen. I've flat out said "try using a hashmap" to a candidate who told me it wasn't going to work.
 
+## Ask questions
+
+Many problems are deliberately phrased ambiguously to test the candidate. Ask for clarification on inputs or other conditions, even if it's just to verify assumptions you think are safe.
+
+Also, don't be afraid to ask your interviewer for help. Ask if you're on the right track, ask if your solution sounds good, ask if there's any issues with starting to code, etc.
+
+If you were at work, you would be expected to reach out to unblock yourself instead of struggling on your own. Bring that mindset into the interview.
+
 ## Hints are normal
 
 I've given my interview questions to candidates of all levels and I almost always give at least one hint to help them find the answer.
