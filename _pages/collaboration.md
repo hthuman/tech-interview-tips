@@ -2,7 +2,7 @@
 title: Collaborative Attitude
 --- 
 
-# Collaborative Attitude
+# Communication
 
 Treat the interview as a collaborative problem solving exercise and work with your interviewer as a partner.
 
