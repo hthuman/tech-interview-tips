@@ -4,18 +4,10 @@ title: Partial Credit Matters
 
 # Partial Credit Matters
 
-Coding interviews are about more than just whether or not you can solve a code puzzle perfectly.
+This is a really important mindset for interviews.  
 
-You can absolutely pass with flying colors even if you don’t find the optimal solution on your own.
+Of course it would be nice to do everything perfectly, but it's not required in order to pass an interview. If you can't get a 100%, at least ensure you get a 90% by spending your time on the most valuable actions.
 
-## No compromises: not being an asshole
-
-The only area where there is no partial credit is not being an asshole. In theory everyone is on their best behavior during an interview, so if a candidate acts poorly then, how much worse will they be after getting hired?
-
-Reasons I've seen candidates get no-hires who would otherwise have been passed:
-* **HR violations**: This one is obvious.
-* **Offensive comments**: We had a candidate complain about an interviewer's accent and ask for an American. Instantly cut the interview loop short.
-* **Hostile attitude towards hints or feedback**: Unanimous opinion during a loop was that the candidate knocked it out of the park on coding, but got angry any time a bug was pointed out or a hint was given. No-hire from everyone.
 
 ## Coding skills
 
@@ -25,25 +17,8 @@ Happily, this is the easiest thing to train for with [code katas](https://hthuma
 
 The order of operations for showing coding skills:
 
-<table>
-  <tr>
-    <td>Write <bold>any</bold> code</td>
-    <td>
-    If you're running out of time, unless the interviewer suggests otherwise, it's better to start coding with a non-optimal solution than it is to never write code. Just be sure to call out what you're doing and that you know it's a non-optimal solution.<br><br>
-    I've passed candidates who displayed solid coding skills but didn't complete the optimal solution. The other way around is a no-hire.
-    </td>
-  </tr>
-  <tr>
-    <td>Write the core algorithm logic</td>
-    <td>If you're writing a graph traversal, make sure you code up the terminal conditions and return values.<br><br>Don't spend time on finding node neighbors or figuring out off-by-one indexing errors, make a helper function stub, leave a TODO, and come back later.
-    </td>
-  </tr>
-  <tr>
-    <td>Test the core algorithm logic</td>
-    <td>Write the code as fast as you can, then step through afterwards with a test case.<br><br>Best of all, call out your intention to do this before you start coding and provide some test cases. This will prevent your interviewer from jumping immediately on any bugs because they assume you don't see them
-    </td>
-  </tr>
-</table>
+* **Write ANY code**: If you're running out of time but you have a non-optimal solution, ask if you can code it up and work on the optimal approach later.  
+* **Focus on the core logic**: Use TODOs with helper function stubs to avoid getting bogged down in non-essential boilerplate code. Come back later if you have time after writing the main code.
 
 ## Big O complexity analysis
 
