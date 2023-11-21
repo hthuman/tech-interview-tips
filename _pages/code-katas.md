@@ -54,7 +54,7 @@ They are the equivalent of easy hackerrank/leetcode problems.
 ## How to use code katas
 
 For every kata, do the following:
-* **Practice until you can confidently and correctly code the solution in under a minute.** No backtracking, no hesitation, no mistakes.
+* **Practice until you can code the solution in under a minute.** No backtracking, no hesitation, no mistakes.
 * **Think about the time/space complexity as you code.** Think about this with every line you write. When allocating supplemental data structures, think about how this impacts space complexity. When you add a for loop, think about what this means for time complexity.
 
 All it takes is regular practice. You don't need to grind for hours, you just need to do a little bit regularly until you are able to just sit down and confidently code the solution without backtracking or hesitation. Even 5 minutes of practice a day on one of these is beneficial. 
