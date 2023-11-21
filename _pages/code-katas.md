@@ -16,8 +16,11 @@ They are the equivalent of easy hackerrank/leetcode problems.
  </tr>
  <tr>
   <td>Arrays/Strings</td>
-  <td>Quicksort (<a href="https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true">hackerrank</a>)</td>
-  <td>Remove adjacent duplicates (<a href="https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true">hackerrank</a>)</td>
+  <td>
+   Quicksort (<a href="https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true">hackerrank</a>)<br>
+   Remove adjacent duplicates (<a href="https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true">hackerrank</a>)<br>
+   Find array index with equal sums (<a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem?isFullScreen=true">hackerrank</a>)
+  </td>
  </tr>
  <tr>
   <td>Linked Lists</td>
