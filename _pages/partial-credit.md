@@ -14,7 +14,8 @@ Of course it would be nice to do everything perfectly, but it's not required in 
 Competent coding skills are table stakes for a software engineer. If you can't write code, it doesn't matter how good you are at communication, analysis, testing, optimization, or anything else. [Code katas](https://hthuman.github.io/tech-interview-tips/code-katas) are a great way to improve your fluency.
 
 * **Focus on the core logic**: Use helper functions with TODOs to defer non-essential code implementation. Come back later if you have time after writing the main code.
-* **Write ANY code**: If you're running out of time but you have a non-optimal solution, ask if you can code it up and work on the optimal approach later.  
+* **Write ANY code**: If you're running out of time but you have a non-optimal solution, ask if you can code it up and work on the optimal approach later.
+* **Use comments and TODOs**: Quickly sketch out your approach with comments so your interviewer knows where you're going, especially if you run out of time.
 
 ## Big O complexity analysis
 
