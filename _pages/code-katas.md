@@ -19,12 +19,16 @@ They are the equivalent of easy hackerrank/leetcode problems.
   <td>
    Quicksort (<a href="https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true">hackerrank</a>)<br>
    Remove adjacent duplicates (<a href="https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true">hackerrank</a>)<br>
-   Find array index with equal sums (<a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem?isFullScreen=true">hackerrank</a>)
+   Find array index with equal sums (<a href="https://www.hackerrank.com/challenges/sherlock-and-array/problem?isFullScreen=true">hackerrank</a>)<br>
+   Minimize losses (<a href="https://www.hackerrank.com/challenges/minimum-loss/problem?isFullScreen=true">hackerrank</a>)<br>
+   Binary tree search in an array (<a href="https://leetcode.com/problems/binary-search/description/">leetcode</a>)<br>
+   Remove parentheses to make valid (<a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">leetcode</a>)
   </td>
  </tr>
  <tr>
   <td>Linked Lists</td>
   <td>
+   Linked list insertion (<a href="https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true">hackerrank</a>)<br>
    Compare two linked lists (<a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true">hackerrank</a>)<br>
    Reverse a linked list (<a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true">hackerrank</a>)
   </td>
@@ -35,6 +39,7 @@ They are the equivalent of easy hackerrank/leetcode problems.
    In-order traversal (<a href="https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
    Pre-order traversal (<a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
    Post-order traversal (<a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem?isFullScreen=true">hackerrank</a>)<br>
+   Binary tree insertion (<a href="https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem?isFullScreen=true">hackerrank</a>)
   </td>
  </tr>
  <tr>
